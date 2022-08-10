@@ -12,5 +12,6 @@
 * Aprimorar: 
 - Criar os dias da semanas.
 - Colocar os horarios.
+- Após clicar no botão enter enviar a anotações.
 
 ![image](https://user-images.githubusercontent.com/90151800/183798678-bf6c4a21-5fc8-4eab-a8c7-2a29e8b6d2a2.png)
