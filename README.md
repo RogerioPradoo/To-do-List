@@ -1,5 +1,5 @@
 # To-do-List
-# Fiz essa pequena parte para fazer algumas anotações, pórem ainda vai ter mais algumas alterações...
+# Fiz essa pequena parte ainda para fazer algumas anotações, pórem ainda vai ter mais algumas alterações...
 
 
 * Criação: 
